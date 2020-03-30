@@ -1,1 +1,0 @@
-cmd_/home/juan/fuentes/r8168-dkms/src/r8168.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 --build-id  -T ./scripts/module-common.lds -o /home/juan/fuentes/r8168-dkms/src/r8168.ko /home/juan/fuentes/r8168-dkms/src/r8168.o /home/juan/fuentes/r8168-dkms/src/r8168.mod.o;  true
