@@ -1,0 +1,1 @@
+cmd_/home/juan/fuentes/r8168-dkms/src/r8168.o := ld -m elf_x86_64  -z max-page-size=0x200000   -r -o /home/juan/fuentes/r8168-dkms/src/r8168.o /home/juan/fuentes/r8168-dkms/src/r8168_n.o /home/juan/fuentes/r8168-dkms/src/r8168_asf.o /home/juan/fuentes/r8168-dkms/src/rtl_eeprom.o /home/juan/fuentes/r8168-dkms/src/rtltool.o
